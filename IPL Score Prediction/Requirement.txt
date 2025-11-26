@@ -1,0 +1,24 @@
+# Core Libraries
+numpy==1.24.3
+pandas==2.0.3
+
+# Machine Learning
+scikit-learn==1.3.0
+scipy==1.11.1
+
+# Data Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Jupyter Notebook (Optional, for interactive development)
+jupyter==1.0.0
+ipykernel==6.25.0
+
+# Data Preprocessing & Feature Engineering
+category_encoders==2.6.3
+
+# Model Persistence (Optional, for saving models)
+joblib==1.3.2
+
+# IPL Dataset Handling (Optional, if using CSV/Excel)
+openpyxl==3.1.2
