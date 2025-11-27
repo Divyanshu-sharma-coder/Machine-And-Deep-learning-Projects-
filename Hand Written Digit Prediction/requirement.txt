@@ -1,0 +1,8 @@
+keras / tensorflow
+numpy
+Pillow (PIL)
+gradio
+win32gui (pywin32)
+tkinter  (comes with Python, NOT installed via pip)
+
+
